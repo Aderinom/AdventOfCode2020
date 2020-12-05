@@ -1,5 +1,5 @@
 ## AdventOfCoding 2020 - Solutions 
-	by yours truly (who no one knows)
+_by yours truly (who no one knows)
 
 
 - [ ] Day 1
