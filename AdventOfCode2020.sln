@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5", "Day5\Day5.csproj", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F8E85228-AAAD-4ABF-B233-8A69F1EDDCE3}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
@@ -14,7 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day1", "Day1\Day1.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day2", "Day2\Day2.vcxproj", "{7A02F9DB-8458-4EDE-9C96-25ED4122BF8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6", "Day6\Day6.csproj", "{C9A05B37-90E0-49A9-856F-B73ABB6FB849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6", "Day6\Day6.csproj", "{C9A05B37-90E0-49A9-856F-B73ABB6FB849}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Day3", "Day3\Day3.njsproj", "{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +73,18 @@ Global
 		{C9A05B37-90E0-49A9-856F-B73ABB6FB849}.Release|x64.Build.0 = Release|Any CPU
 		{C9A05B37-90E0-49A9-856F-B73ABB6FB849}.Release|x86.ActiveCfg = Release|Any CPU
 		{C9A05B37-90E0-49A9-856F-B73ABB6FB849}.Release|x86.Build.0 = Release|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Debug|x64.Build.0 = Debug|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Debug|x86.Build.0 = Debug|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Release|x64.ActiveCfg = Release|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Release|x64.Build.0 = Release|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Release|x86.ActiveCfg = Release|Any CPU
+		{83ECC366-3D83-4EE0-AD89-DC2E8F2B0B20}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

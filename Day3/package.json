@@ -1,0 +1,17 @@
+{
+  "name": "day3",
+  "version": "0.0.0",
+  "description": "Day3",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.66",
+    "typescript": "^3.2.2"
+  }
+}

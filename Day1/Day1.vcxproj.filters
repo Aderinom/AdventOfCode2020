@@ -22,4 +22,7 @@
   <ItemGroup>
     <Text Include="Input.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
 </Project>
