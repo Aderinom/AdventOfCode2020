@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using System.Runtime.CompilerServices;
 
 namespace Day5
 {
@@ -10,8 +9,17 @@ namespace Day5
         
         static void Main(string[] args)
         {
+
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("-------------------------------------------------------");
+            Console.WriteLine("_  * -  _ *   Advent of Code 2020 - Day 5 *  -  _ *  _ ");
+            Console.WriteLine("-------------------------------------------------------");
+            Console.ResetColor();
+
+
             BoardingScanner boardingScanner = new BoardingScanner(8);
-            boardingScanner.UnitTest();
+            //boardingScanner.UnitTest();
 
             string[] Lines = File.ReadAllLines("input.txt");
 

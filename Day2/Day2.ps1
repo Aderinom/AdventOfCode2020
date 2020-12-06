@@ -1,3 +1,8 @@
+
+write-host "-------------------------------------------------------" -BackgroundColor Red
+write-host "_  * -  _ *   Advent of Code 2020 - Day 2 *  -  _ *  _ " -BackgroundColor Red
+write-host "-------------------------------------------------------" -BackgroundColor Red
+
 $Passwords = get-content "input.txt"
 $validpasswords = 0;
 # Question 1
