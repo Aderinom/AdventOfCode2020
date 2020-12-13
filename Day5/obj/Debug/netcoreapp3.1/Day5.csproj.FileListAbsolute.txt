@@ -10,3 +10,4 @@ P:\Projekte\AdventOfCoding2020\Day5\obj\Debug\netcoreapp3.1\Day5.csproj.CoreComp
 P:\Projekte\AdventOfCoding2020\Day5\obj\Debug\netcoreapp3.1\Day5.dll
 P:\Projekte\AdventOfCoding2020\Day5\obj\Debug\netcoreapp3.1\Day5.pdb
 P:\Projekte\AdventOfCoding2020\Day5\obj\Debug\netcoreapp3.1\Day5.genruntimeconfig.cache
+P:\Projekte\AdventOfCoding2020\Day5\obj\Debug\netcoreapp3.1\Day5.csprojAssemblyReference.cache

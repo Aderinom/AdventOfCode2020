@@ -22,7 +22,7 @@ int main()
         printf("Error - File could not be opened");
         return -1;
     }
-
+    
 
 
     while (Inputfile.getline(line,5))
